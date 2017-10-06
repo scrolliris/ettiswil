@@ -41,6 +41,15 @@ If you have any question, email us `feedback@lupine-software.com`, or
 contact [@scrolliris](https://twitter.com/scrolliris) on Twitter.
 
 
+## Contribution
+
+Thank you for correctness, suggestions and many improvements!
+
+```txt
+Kuno Strassmann
+```
+
+
 ## License
 
 Konstanz; Copyright (c) 2017 Lupine Software LLC
