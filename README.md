@@ -47,6 +47,8 @@ Thank you for correctness, suggestions and many improvements!
 
 ```txt
 Kuno Strassmann
+Charlotte
+Zeno R.R. Davatz
 ```
 
 
