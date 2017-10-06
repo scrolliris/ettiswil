@@ -41,7 +41,7 @@ If you have any question, email us `feedback@lupine-software.com`, or
 contact [@scrolliris](https://twitter.com/scrolliris) on Twitter.
 
 
-## Contribution
+## Contributors
 
 Thank you for correctness, suggestions and many improvements!
 
@@ -49,6 +49,7 @@ Thank you for correctness, suggestions and many improvements!
 Kuno Strassmann
 Charlotte
 Zeno R.R. Davatz
+Misaki Asaka
 ```
 
 
