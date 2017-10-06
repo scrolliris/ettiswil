@@ -32,17 +32,7 @@ https://gitlab.com/lupine-software/konstanz.git
 
 ## Setup
 
-None
-
-
-## Syntax Check
-
-TODO
-
-
-## Translation
-
-TODO
+Nothing. But you need to check markdown output in `LANG.yml`.
 
 
 ## Support
