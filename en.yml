@@ -2,7 +2,7 @@
 title: Scrolliris Concept Draft
 subtitle: Why we develop Scrolliris
 outline: >-
-  This is a public sample document using the product itself as a concept draft document. Scrolliris is a publication platform which utilizes text readability analysis through a browser widget. This demo shows how it works, using the application on the concept draft document of Scrolliris itself. The pop-up window at bottom left shows the results of the analysis in real time as a text readability heatmap.
+  Scrolliris is a publication platform which utilizes text readability analysis through a browser widget. This demo shows how it works, using the application on the concept draft document of Scrolliris itself. The pop-up window at bottom left shows the results of the analysis in real time as a text readability heatmap.
 license: CC-BY-NC-SA-4.0
 copyright: 2017 Lupine Software LLC
 authors:
