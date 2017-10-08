@@ -43,7 +43,7 @@ contact [@scrolliris](https://twitter.com/scrolliris) on Twitter.
 
 ## Contributors
 
-Thank you for correctness, suggestions and many improvements!
+Thank you for corrections, suggestions and many improvements!
 
 ```txt
 Kuno Strassmann
