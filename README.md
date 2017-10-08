@@ -62,7 +62,7 @@ Copyright (c) 2017 Lupine Software LLC
 
 `CC-BY-NC-SA-4.0`
 
-The files in the `static/img` directory are licensed under the
+The work is licensed under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 Public License.
 
