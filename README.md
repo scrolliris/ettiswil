@@ -55,13 +55,19 @@ Misaki Asaka
 
 ## License
 
-Konstanz; Copyright (c) 2017 Lupine Software LLC
+```txt
+Konstanz
+Copyright (c) 2017 Lupine Software LLC
+```
 
-This work is licensed under a `CC-BY-NC-SA-4.0`.
+`CC-BY-NC-SA-4.0`
+
+The files in the `static/img` directory are licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Public License.
 
 [![Creative Commons License](
 https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](
 http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-See `LICENSE` or check out [Legalcode](
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+See [LICENSE](LICENSE).
