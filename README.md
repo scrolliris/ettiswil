@@ -37,7 +37,7 @@ Nothing. But you need to check markdown output in `LANG.yml`.
 
 ## Support
 
-If you have any question, email us `feedback@lupine-software.com`, or
+If you have any question, email us `support@scrolliris.com`, or
 contact [@scrolliris](https://twitter.com/scrolliris) on Twitter.
 
 
