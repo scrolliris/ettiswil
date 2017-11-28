@@ -17,12 +17,12 @@ Konstanz; Keen cONcept STANds for our Zeal
 
 This is articles for the Scrolliris [Demo](
 https://try.scrolliris.com/) which called as [Bregenz](
-https://gitlab.com/lupine-software/bregenz) (code name).
+https://gitlab.com/scrolliris/bregenz) (code name).
 
 
 ## Repository
 
-https://gitlab.com/lupine-software/konstanz.git
+https://gitlab.com/scrolliris/konstanz.git
 
 
 ## Format
