@@ -20,7 +20,7 @@ https://gitlab.com/scrolliris/willisau) (code name).
 
 ## Repository
 
-https://gitlab.com/scrolliris/willisau.git
+https://gitlab.com/scrolliris/ettiswil.git
 
 
 ## Format
