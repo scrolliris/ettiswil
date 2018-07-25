@@ -45,7 +45,7 @@ Thank you for corrections, suggestions and many improvements!
 
 ```txt
 Kuno Strassmann
-Charlotte
+Charlotte Geary
 Zeno R.R. Davatz
 Misaki Asaka
 ```
@@ -55,7 +55,7 @@ Misaki Asaka
 
 ```txt
 Ettiswil
-Copyright (c) 2017 Lupine Software LLC
+Copyright (c) 2017-2018 Lupine Software LLC
 ```
 
 `CC-BY-NC-SA-4.0`
