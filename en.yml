@@ -4,8 +4,8 @@ subtitle: Why we develop Scrolliris
 outline: >-
   Scrolliris is a publication platform which utilizes text readability analysis through a browser widget. This demo shows how it works, using the application on the concept draft document of Scrolliris itself. The pop-up window at bottom left shows the results of the analysis in real time as a text readability heatmap.
 license: CC-BY-NC-SA-4.0
-copyright: 2017 Lupine Software LLC
-updated_at: 2017-11-05
+copyright: 2017-2018 Lupine Software LLC
+updated_at: 2018-07-25
 authors:
   - name: Yasuhiro Asaka
     mail: yasuhiro.asaka@grauwoelfchen.net
@@ -123,7 +123,7 @@ body: |+
   Thank you for many corrections, suggestions and improvements for this document!
 
   - Kuno Strassmann
-  - Charlotte
+  - Charlotte Geary
   - Zeno R.R. Davatz
   - Misaki Asaka
 
