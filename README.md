@@ -1,6 +1,6 @@
-# Ettiswil
+# Scrolliris Concept Docs
 
-`/ɛ́ttɪʃvɪl/`
+Code Name: `/ɛ́ttɪʃvɪl/`
 
 
 ```txt
@@ -14,13 +14,13 @@ Ettiswil; concEpT arTIcleS WItten with Light weight markup language
 ```
 
 This is articles for the Scrolliris [Demo](
-https://try.scrolliris.com/) which called as [Willisau](
-https://gitlab.com/scrolliris/willisau) (code name).
+https://try.scrolliris.com/) application which called as [Willisau](
+https://gitlab.com/scrolliris/scrolliris-demo) (code name).
 
 
 ## Repository
 
-https://gitlab.com/scrolliris/ettiswil.git
+https://gitlab.com/scrolliris/scrolliris-concept-docs.git
 
 
 ## Format
@@ -54,7 +54,7 @@ Misaki Asaka
 ## License
 
 ```txt
-Ettiswil
+Scrolliris Concept Docs
 Copyright (c) 2017-2018 Lupine Software LLC
 ```
 
